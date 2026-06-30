@@ -72,13 +72,13 @@
 
 ## Другие открытые репозитории
 
-| Репозиторий | Суть |
-|-------------|------|
-| [igaming-seo-juegachile](https://github.com/dirtyworker666x/igaming-seo-juegachile) | iGaming SEO-лендинг, Чили · JSON-LD, affiliate JS, калькулятор бонуса |
-| [igaming-seo-jugarey](https://github.com/dirtyworker666x/igaming-seo-jugarey) | iGaming SEO-лендинг, Аргентина · structured data, responsive hero |
-| [streetwear-landing-altered-state](https://github.com/dirtyworker666x/streetwear-landing-altered-state) | Лендинг бренда одежды · glitch UI, каталог, заказ через Telegram |
+| Репозиторий | Суть | Демо |
+|-------------|------|------|
+| [igaming-seo-juegachile](https://github.com/dirtyworker666x/igaming-seo-juegachile) | iGaming SEO-лендинг, Чили · JSON-LD, affiliate JS, калькулятор бонуса | [открыть](https://dirtyworker666x.github.io/igaming-seo-juegachile/) |
+| [igaming-seo-jugarey](https://github.com/dirtyworker666x/igaming-seo-jugarey) | iGaming SEO-лендинг, Аргентина · structured data, responsive hero | [открыть](https://dirtyworker666x.github.io/igaming-seo-jugarey/) |
+| [streetwear-landing-altered-state](https://github.com/dirtyworker666x/streetwear-landing-altered-state) | Лендинг бренда одежды · glitch UI, каталог, заказ через Telegram | [открыть](https://dirtyworker666x.github.io/streetwear-landing-altered-state/) |
 
-Статические проекты: `git clone` → `python3 -m http.server 8080`.
+Лендинги — статика на **GitHub Pages** (ссылки выше). TGPlay — живой продукт на [tgplay.fun](https://tgplay.fun).
 
 ---
 
